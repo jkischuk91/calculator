@@ -15,9 +15,9 @@ def divide(n1, n2):
 print(add(2,2))
 
 # Test 2
-print(mult(3*6))
+print(mult(3,6))
 
 # Test 3
 num1 = mult(15, 4)
 num2 = divide(210, 7)
-print(subtract(num1, num2)
+print(subtract(num1, num2))
